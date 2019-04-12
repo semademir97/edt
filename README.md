@@ -1,3 +1,3 @@
-Elektrik Devre Temelleri Ders Notları
-Sema Demir
-Kocaeli Üniversitesi Bilgisayar Mühendisliği
+Elektrik Devre Temelleri Ders Notları <br>
+Sema Demir <br>
+Kocaeli Üniversitesi Bilgisayar Mühendisliği <br>
